@@ -9,7 +9,7 @@
 
 ## 🔗 Ссылка на карту
 
-**[Открыть аналитическую карту](https://ВАШ_ЛОГИН.github.io/ekb-transport-webmap/)**
+**[Открыть аналитическую карту](https://github.com/taisiakondrakova/EKAT_webmap)**
 
 ---
 
