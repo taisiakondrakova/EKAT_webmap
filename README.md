@@ -9,7 +9,7 @@
 
 ## 🔗 Ссылка на карту
 
-**[Открыть аналитическую карту](https://github.com/taisiakondrakova/EKAT_webmap)**
+**[Открыть аналитическую карту](https://taisiakondrakova.github.io/EKAT_webmap/)**
 
 ---
 
